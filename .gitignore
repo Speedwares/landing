@@ -24,7 +24,6 @@ node_modules/
 tmp/
 temp/
 platforms/
-plugins/
 plugins/android.json
 plugins/ios.json
 $RECYCLE.BIN/
@@ -32,4 +31,3 @@ $RECYCLE.BIN/
 .DS_Store
 Thumbs.db
 UserInterfaceState.xcuserstate
-config.js
